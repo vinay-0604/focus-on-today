@@ -5,6 +5,7 @@ const progressLabel = document.querySelector('.progress-label')
 const progressBar = document.querySelector('.progress-bar')
 const progressValue = document.querySelector('.progress-value')
 
+//All the quotes which we want to add
 const allQuotes = [
   'Raise the bar by completing your goals!',
   'Well begun is half done!',
@@ -23,6 +24,7 @@ progressValue.style.width = `${(completedGoalsCount / inputFields.length) * 100}
 progressValue.firstElementChild.innerText = `${completedGoalsCount}/${inputFields.length} completed`
 progressLabel.innerText = allQuotes[completedGoalsCount]
 
+//customised checkBox
 checkBoxList.forEach((checkbox) => {
   checkbox.addEventListener('click', (e) => {
     const allGoalsAdded = [...inputFields].every(function (input) {
