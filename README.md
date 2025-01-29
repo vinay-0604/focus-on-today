@@ -3,7 +3,7 @@ Focus on Today: Add three daily tasks and track progress as you complete them
 
 Focus on Today is a simple yet effective task-tracking web application that helps users stay organized by setting and completing three important daily tasks. The application is designed to provide a clean, distraction-free experience while ensuring users can easily track their progress.
 
-🚀 Features
+🚀 FEATURES:
 
 
 ✅ Add Three Daily Tasks – Users can enter up to three tasks they want to focus on for the day.
@@ -25,7 +25,7 @@ Focus on Today is a simple yet effective task-tracking web application that help
 
 
 
-🛠️ Built With
+🛠️ BUILT WITH:
 
 
 HTML – Structure of the application.
@@ -39,7 +39,7 @@ JavaScript – Functionalities like task management, progress tracking, and loca
 
 
 
-📌 How to Use
+📌 HOW TO USE:
 
 
 Enter your three key tasks for the day.
@@ -55,7 +55,7 @@ Reload the page anytime – your progress remains saved!
 
 
 
-💡 Future Enhancements
+💡 FUTURE ENHANCEMENTS:
 
 
 🔹 Option to edit tasks before marking them as complete.
